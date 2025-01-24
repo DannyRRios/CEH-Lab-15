@@ -1,4 +1,4 @@
-<h1>CEH Lab 15</h1>
+<h1>SQL Injection - CEH</h1>
 
 
 ![Image Alt](https://github.com/DannyRRios/CEH-Lab-15/blob/4c6fb7df5b3aa408b4dc48560829b991bf4eeedb/Lab15-1.png)
